@@ -1,0 +1,24 @@
+{
+    "python.pythonPath": "python.defaultInterpreterPath",
+    "workbench.colorTheme": "Cobalt2",
+    "window.zoomLevel": 1,
+    "workbench.settings.editor": "json",
+    "workbench.settings.openDefaultSettings": true,
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
+    "jupyter.interactiveWindowMode": "perFile",
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 3000,
+    "search.searchEditor.doubleClickBehaviour": "openLocationToSide",
+    "workbench.editor.pinnedTabSizing": "shrink",
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "git.autofetch": true,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    }
+}
