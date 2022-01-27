@@ -20,7 +20,7 @@ In addition to Liveserver, other useful extensions useful for my workspace are a
 My Workspace settings are as simple as possible to support an efficient workflow. 
 
 
-### setting.json
+### settings.json
 ```
 {
     "python.pythonPath": "python.defaultInterpreterPath",
